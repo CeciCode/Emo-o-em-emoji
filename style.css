@@ -1,0 +1,45 @@
+body
+{
+  color: white;
+  background: lightskyblue;
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #foto
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.heading
+{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+}
+label
+{
+    font-size: 20px;
+  color: aquamarine;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+#h33 {
+    color: white;
+    background-color: lightpink;
+    width: 550px;
+    height: 70px;
+}
+p {
+    font-size: 25px;
+}
+.buttons {
+    font-size: 20px;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
